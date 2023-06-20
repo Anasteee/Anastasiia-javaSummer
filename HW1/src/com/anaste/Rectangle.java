@@ -1,4 +1,4 @@
-package com.company;
+package com.anaste;
 
 public class Rectangle {
     private final Point a;
